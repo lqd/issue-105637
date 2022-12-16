@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "rustc_driver",
+    "rustc_main",
+]
